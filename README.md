@@ -8,11 +8,11 @@ This is the first book on implementing financial models using object-oriented C+
 
 #### For you reference
 
-Offical website for this book: <http://www.markjoshi.com/design/>
+- Offical website for this book: <http://www.markjoshi.com/design/>
 
-Amazon page: <http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628>
+- Amazon page: <http://www.amazon.com/Patterns-Derivatives-Pricing-Mathematics-Finance/dp/0521721628>
 
-Forum: <http://www.markjoshi.com/books/phpBB3/viewforum.php?f=3>
+- Forum: <http://www.markjoshi.com/books/phpBB3/viewforum.php?f=3>
 
 #### Notice
 - all projects all written in Xcode
